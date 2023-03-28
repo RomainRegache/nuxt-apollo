@@ -13,7 +13,7 @@ const props = defineProps({
 
 <template>
     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-        <img class="w-full" src="https://cdn.pixabay.com/photo/2016/11/18/19/13/buildings-1836478_960_720.jpg" alt="Sunset in the mountains">
+        <img class="w-full" src="https://picsum.photos/1920/1080?random" alt="Sunset in the mountains">
         <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2">{{ nom }}</div>
             <p class="text-gray-700 text-base">
